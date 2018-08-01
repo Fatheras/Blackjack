@@ -1,0 +1,7 @@
+c:\users\kosra\onedrive\документы\visual studio 2017\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+c:\users\kosra\onedrive\документы\visual studio 2017\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+c:\users\kosra\onedrive\документы\visual studio 2017\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+c:\users\kosra\onedrive\документы\visual studio 2017\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+c:\users\kosra\onedrive\документы\visual studio 2017\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+c:\users\kosra\onedrive\документы\visual studio 2017\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\kosra\onedrive\документы\visual studio 2017\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
